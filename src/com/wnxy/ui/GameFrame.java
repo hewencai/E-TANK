@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 
 import com.wnxy.music.PlayerBGM;
 public class GameFrame extends JFrame{
-	
+	public int dad=1;
 	GameFarms gaf=new GameFarms();
 	/**设置窗口属性*/
 	public GameFrame(){
